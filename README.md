@@ -25,9 +25,3 @@ Personal Diary is a desktop application developed with Python and Tkinter. It en
 
 ## Dependencies
 - Tkinter (usually comes pre-installed with Python)
-
-## Support and Contributions
-Feel free to report issues or make contributions to this project. Your feedback and contributions are welcome!
-
-## License
-This project is open-source and available under the MIT License.
